@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
         rv = findViewById(R.id.rv);
         img = findViewById(R.id.img);
 
-        list = new ArrayList<>();
+        list = new ArrayList<>(); 
         list.add("Item 1");
         list.add("Item 2");
         list.add("Item 3");
