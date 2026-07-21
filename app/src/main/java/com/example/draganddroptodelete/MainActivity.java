@@ -21,10 +21,10 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 
-    RecyclerView rv;
-    ImageButton img;
-    ItemAdapter adapterl;
-    List<String> list;
+    private RecyclerView rv;
+    private ImageButton img;
+    private ItemAdapter adapterl;
+    private List<String> list;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
